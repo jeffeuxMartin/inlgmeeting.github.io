@@ -5,14 +5,14 @@ approaches.
 
 Submissions should describe the proposed tutorial or hackathon in detail, including information regarding organisers, motivating theoretical interest and/or application context, and schedule.
 
-Accepted tutorials and hackathons will be held on July 21 or 22, 2022, in coordination with INLG 2022.
+Accepted tutorials and hackathons will be held on July 21 or 22, 2023, in coordination with INLG 2023.
 
 ###Important dates
 
 All deadlines are Anywhere on Earth (UTC-12)
 
-* submission deadline: March 21, 2022
-* notification deadline: March 28, 2022
+* submission deadline: March 21, 2023
+* notification deadline: March 28, 2023
 
 ###Submissions and format
 

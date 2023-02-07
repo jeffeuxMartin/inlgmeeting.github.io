@@ -1,7 +1,7 @@
 speakers:
   - UID: DimitraGkatzia
     session: Keynote 2
-    start_time: "2022-07-20T09:00:00Z"
+    start_time: "2023-07-20T09:00:00Z"
     image: https://inlgmeeting.github.io/static/images/dimitra.jpg
     title: "NLG for Human-Robot Interaction: Challenges and Opportunities"
     institution: Edinburgh Napier University
@@ -12,7 +12,7 @@ speakers:
   - UID: EmielKrahmer
     session: Keynote 4
     full_video: https://vimeo.com/732185589
-    start_time: "2022-07-21T09:00:00Z"
+    start_time: "2023-07-21T09:00:00Z"
     image: https://inlgmeeting.github.io/static/images/emielkrahmer.jpg
     title: "From Generating Personalised Risk Descriptions to Data-driven Health Narratives: Applying NLG to Healthcare Data"
     institution: Tilburg University
@@ -22,7 +22,7 @@ speakers:
   - UID: MargaretMitchell
     full_video: https://vimeo.com/731723796
     session: Keynote 1
-    start_time: "2022-07-19T09:00:00Z"
+    start_time: "2023-07-19T09:00:00Z"
     image: https://inlgmeeting.github.io/static/images/margaret.jpg
     title: Advancing Natural Language Generation (for better or worse)
     institution: Huggingface
@@ -30,7 +30,7 @@ speakers:
     bio: "Margaret Mitchell is a researcher working on Ethical AI, currently focused on the ins and outs of ethics-informed AI development in tech. She has published over 50 papers on natural language generation, assistive technology, computer vision, and AI ethics, and holds multiple patents in the areas of conversation generation and sentiment classification. She currently works at Hugging Face driving forward work in the ML development ecosystem, ML data governance, AI evaluation, and AI ethics. She previously worked at Google AI as a Staff Research Scientist, where she founded and co-led Google's Ethical AI group, focused on foundational AI ethics research and operationalizing AI ethics Google-internally. Before joining Google, she was a researcher at Microsoft Research, focused on computer vision-to-language generation; and was a postdoc at Johns Hopkins, focused on Bayesian modeling and information extraction. She holds a PhD in Computer Science from the University of Aberdeen and a Master's in computational linguistics from the University of Washington. While earning her degrees, she also worked from 2005-2012 on machine learning, neurological disorders, and assistive technology at Oregon Health and Science University. She has spearheaded a number of workshops and initiatives at the intersections of diversity, inclusion, computer science, and ethics. Her work has received awards from Secretary of Defense Ash Carter and the American Foundation for the Blind, and has been implemented by multiple technology companies. She likes gardening, dogs, and cats. "
   - UID: speaker4
     session: Keynote 3
-    start_time: "2022-07-20T13:00:00Z"
+    start_time: "2023-07-20T13:00:00Z"
     image: https://inlgmeeting.github.io/static/images/mohit.png
     title: Modeling and Evaluating Faithful Generation in Language and Vision
     institution: University of North Carolina (UNC) Chapel Hill

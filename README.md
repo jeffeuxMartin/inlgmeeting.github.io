@@ -1,8 +1,8 @@
 ## Welcome!
 
-We look forward to hosting you in the beautiful state of Maine July 18-22, 2022.
+We look forward to hosting you in the beautiful state of Maine July 18-22, 2023.
 
-INLG 2022 will be a *hybrid* conference. 
+INLG 2023 will be a *hybrid* conference. 
 
 ### Acknowledgements
 

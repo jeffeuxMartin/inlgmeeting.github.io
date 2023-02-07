@@ -1,8 +1,8 @@
 private: false
-name: INLG 2022
+name: INLG 2023
 tagline: 15th International Natural Language Generation Conference
-date: 18-22 July 2022
-citation_date: July 2022
+date: 18-22 July 2023
+citation_date: July 2023
 proceedings_title: Proceedings of the 15th International Natural Language Generation Conference
 analytics: UA-
 logo:
@@ -12,10 +12,10 @@ logo:
 # uncomment the following line to show the site title next to the logo image
 site_title: 15th International Natural Language Generation Conference
 page_title:
-  prefix: 'INLG 2022'
+  prefix: 'INLG 2023'
   separator: ': '
 background_image: static/images/main.jpg
-organization: INLG 2022 Organizers
+organization: INLG 2023 Organizers
 
 # Remove or change to your chat server.
 #chat_server: miniconf.sloppy.zone

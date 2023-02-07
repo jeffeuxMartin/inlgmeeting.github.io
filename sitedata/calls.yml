@@ -1,18 +1,18 @@
 calls:
   - id: 1
     title: Call for Papers
-    deadline: March 15, 2022 11:59:59 AOE
+    deadline: March 15, 2023 11:59:59 AOE
     body: sitedata/cfp.md
   - id: 2
     title: Call for Workshop Proposals 
-    deadline: February 14, 2022 11:59:59 AOE
+    deadline: February 14, 2023 11:59:59 AOE
     body: sitedata/wcfp.md
   - id: 3
     title: Call for Tutorial Proposals
-    deadline: March 21, 2022 11:59:59 AOE
+    deadline: March 21, 2023 11:59:59 AOE
     body: sitedata/tcfp.md
   - id: 4
     title: Call for Generation Challenges
-    deadline: April 27, 2022 11:59:59 AOE
+    deadline: April 27, 2023 11:59:59 AOE
     body: sitedata/gccfp.md
 

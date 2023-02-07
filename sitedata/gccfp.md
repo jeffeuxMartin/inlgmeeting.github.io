@@ -1,6 +1,6 @@
-We invite submissions of papers describing ideas for future shared tasks in the general area of language generation (Generation Challenges 2022). Proposed tasks can be in the area of core NLG, or in other research areas in which language is generated. Examples include, but are not limited to: data-to-text NLG, text-to-text generation (including MT and summarisation), combining core NLG and MT, combining core NLG and text summarisation, NLG quality estimation, NLG evaluation metrics, and/or generating language from heterogeneous data, including image and video.
+We invite submissions of papers describing ideas for future shared tasks in the general area of language generation (Generation Challenges 2023). Proposed tasks can be in the area of core NLG, or in other research areas in which language is generated. Examples include, but are not limited to: data-to-text NLG, text-to-text generation (including MT and summarisation), combining core NLG and MT, combining core NLG and text summarisation, NLG quality estimation, NLG evaluation metrics, and/or generating language from heterogeneous data, including image and video.
 
-The Generation Challenges (GenChal) are an umbrella event designed to bring together a variety of shared-task efforts that involve the generation of natural language. This year, Generation Challenges will be held during a special session at the 15th International Conference on Natural Language Generation (INLG 2022), scheduled on 18-22 July 2022.
+The Generation Challenges (GenChal) are an umbrella event designed to bring together a variety of shared-task efforts that involve the generation of natural language. This year, Generation Challenges will be held during a special session at the 15th International Conference on Natural Language Generation (INLG 2023), scheduled on 18-22 July 2023.
 
 The session will follow the format of previous GenChal results sessions, with presentations of results by the organisers of the generation challenges that are currently running, as well as presentations of proposals for new shared tasks in the Task Proposals Track.
 
@@ -8,9 +8,9 @@ Submissions should describe possible future tasks in detail, including informati
 
 ### Important dates
 
-* Submission deadline: 27 April 2022
-* Notification: 25 May 2022
-* Camera-ready submission: 18 June 2022
+* Submission deadline: 27 April 2023
+* Notification: 25 May 2023
+* Camera-ready submission: 18 June 2023
 All deadlines are 11:59pm UTC-12h ("anywhere on Earth")
 
 ### Submissions and format
@@ -23,7 +23,7 @@ Submissions will be peer-reviewed by the program committee. As reviewing will no
 
 This is not intended to be a selective process, since the aim is to discuss new potential shared tasks with INLG delegates. However, the organisers reserve the right to reject proposals which do not fall within the scope of the GenChal initiative, or which do not follow guidelines.
 
-Accepted submissions will be included in the INLG 2022 proceedings.
+Accepted submissions will be included in the INLG 2023 proceedings.
 
 Previous GenChal challenges: [https://sites.google.com/site/genchalrepository/](https://sites.google.com/site/genchalrepository/)
 
