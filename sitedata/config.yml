@@ -1,16 +1,16 @@
 private: false
 name: INLG 2023
-tagline: 15th International Natural Language Generation Conference
+tagline: 16th International Natural Language Generation Conference
 date: 18-22 July 2023
 citation_date: July 2023
-proceedings_title: Proceedings of the 15th International Natural Language Generation Conference
+proceedings_title: Proceedings of the 16th International Natural Language Generation Conference
 analytics: UA-
 logo:
   image: https://inlg2021.github.io/img/logo.png
   width: 90px
   height: auto
 # uncomment the following line to show the site title next to the logo image
-site_title: 15th International Natural Language Generation Conference
+site_title: 16th International Natural Language Generation Conference
 page_title:
   prefix: 'INLG 2023'
   separator: ': '

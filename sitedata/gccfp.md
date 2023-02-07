@@ -1,6 +1,6 @@
 We invite submissions of papers describing ideas for future shared tasks in the general area of language generation (Generation Challenges 2023). Proposed tasks can be in the area of core NLG, or in other research areas in which language is generated. Examples include, but are not limited to: data-to-text NLG, text-to-text generation (including MT and summarisation), combining core NLG and MT, combining core NLG and text summarisation, NLG quality estimation, NLG evaluation metrics, and/or generating language from heterogeneous data, including image and video.
 
-The Generation Challenges (GenChal) are an umbrella event designed to bring together a variety of shared-task efforts that involve the generation of natural language. This year, Generation Challenges will be held during a special session at the 15th International Conference on Natural Language Generation (INLG 2023), scheduled on 18-22 July 2023.
+The Generation Challenges (GenChal) are an umbrella event designed to bring together a variety of shared-task efforts that involve the generation of natural language. This year, Generation Challenges will be held during a special session at the 16th International Conference on Natural Language Generation (INLG 2023), scheduled on 18-22 July 2023.
 
 The session will follow the format of previous GenChal results sessions, with presentations of results by the organisers of the generation challenges that are currently running, as well as presentations of proposals for new shared tasks in the Task Proposals Track.
 
