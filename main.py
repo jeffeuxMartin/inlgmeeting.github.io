@@ -261,6 +261,17 @@ def send_static(path):
 
 @app.route("/serve_<path>.json")
 def serve(path):
+    # if path == 'tutorials':
+    #     from IPython import embed
+    #     embed()
+    if isinstance(site_data[path], list):
+        for idx, item in enumerate(site_data[path]):
+            if isinstance(item, dict):
+                site_data[path][idx] = {
+                    ("None" if k == None else k): item[k]
+                    for k in item
+                }
+        
     return jsonify(site_data[path])
 
 
